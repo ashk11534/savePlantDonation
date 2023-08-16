@@ -1,0 +1,4 @@
+admin credentials:
+email: admin_joty@gmail.com
+username: joty
+password: 1234
